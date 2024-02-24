@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **mohammadaliyasin6@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Md%20Ali%20Yasin/Documents/Downloads/Ali%20Yasin%20Resume.pdf](file:///C:/Users/Md%20Ali%20Yasin/Documents/Downloads/Ali%20Yasin%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
