@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ali Yasin</h1>
+<h1 align="center">Hi 👋, I'm Ali Yasin</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on [API Integration](https://github.com/mohammadaliyasin/API-Integration)
