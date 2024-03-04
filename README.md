@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **[Nirvamind](https://github.com/mohammadaliyasin/NirvaMind.git)**
 
-- 🤝 I’m looking for help with [NA]**(NA)**
+- 🤝 I’m looking for help with **[NA](NA)**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/mohammadaliyasin](https://github.com/mohammadaliyasin)**
 
