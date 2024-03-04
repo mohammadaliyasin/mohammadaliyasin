@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali Yasin</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [API Integration]**(https://github.com/mohammadaliyasin/API-Integration)**
+- 🔭 I’m currently working on **[API Integration](https://github.com/mohammadaliyasin/API-Integration)**
 
 - 🌱 I’m currently learning **Flutter,Firebase,Nodejs,API Integration etc.**
 
-- 👯 I’m looking to collaborate on [Nirvamind]**(https://github.com/mohammadaliyasin/NirvaMind.git)**
+- 👯 I’m looking to collaborate on **[Nirvamind](https://github.com/mohammadaliyasin/NirvaMind.git)**
 
 - 🤝 I’m looking for help with [NA]**(NA)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadaliyasin](https://github.com/mohammadaliyasin)
+- 👨‍💻 All of my projects are available at **[https://github.com/mohammadaliyasin](https://github.com/mohammadaliyasin)**
 
 - 💬 Ask me about **Flutter & Dart,Canva & figma designing ,video editing (Adobe Premiere Pro) etc.**
 
