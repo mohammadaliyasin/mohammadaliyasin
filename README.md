@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Yasin</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **[API Integration](https://github.com/mohammadaliyasin/API-Integration)**
+- 🔭 I’m currently working on **[Mind-Pad](https://github.com/mohammadaliyasin/Mind-Pad)**
 
 - 🌱 I’m currently learning **Flutter,Firebase,Nodejs,API Integration etc.**
 
