@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,Firebase,Nodejs,API Integration etc.**
 
-- 👯 I’m looking to collaborate on **[Nirvamind](https://github.com/mohammadaliyasin/NirvaMind.git)**
+- 👯 I’m looking to collaborate on **[Na](Na)**
 
 - 🤝 I’m looking for help with **[NA](NA)**
 
