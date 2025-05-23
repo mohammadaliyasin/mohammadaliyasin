@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Yasin</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **[Samvaad](https://github.com/mohammadaliyasin/Samvaad)**
+- 🔭 I’m currently working on **[multi_store_app](https://github.com/mohammadaliyasin/Samvaad)**
 
-- 🌱 I’m currently learning **Flutter,Firebase,Nodejs,API Integration etc.**
+- 🌱 I’m currently learning **CI/CD,System design,UI/UX Laws etc.**
 
 - 👯 I’m looking to collaborate on **[Na](Na)**
 
